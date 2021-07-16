@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Games.in" />
+              <option name="title_text" value="GAMESIN PART 2" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -513,53 +513,53 @@
           <color name="text">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x555555" alpha="0" stop="0" />
+                <color rgb="0x555555" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="diva">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xD3D3D3" alpha="0" stop="0" />
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="divb">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xF7F7F7" alpha="0" stop="0" />
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xE9E9E9" alpha="0" stop="0" />
-                <color rgb="0xCFCFCF" alpha="0" stop="255" />
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
           <color name="border">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xE9E9E9" alpha="0" stop="0" />
-                <color rgb="0xF3F3F3" alpha="0" stop="255" />
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
           <color name="menu_shade">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xDBDBDB" alpha="0" stop="0" />
-                <color rgb="0xC3C3C3" alpha="0" stop="255" />
+                <color rgb="0xDBDBDB" alpha="100" stop="0" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
           <color name="slide_bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xE9E9E9" alpha="0" stop="0" />
-                <color rgb="0xCFCFCF" alpha="0" stop="255" />
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
               </colors>
             </fill>
           </color>
@@ -1186,65 +1186,72 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6Pz8Qm6NDLE" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.69EWwq8jGt6" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6Pz8Qm6NDLE.5wExJ2k7LKp" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6Pz8Qm6NDLE.6EdEYiuPAMV" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6Pz8Qm6NDLE.5ZYBud4lrvm" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6Pz8Qm6NDLE.6eOa2Yk1tc0" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6Pz8Qm6NDLE.6IxpOl3TOJI" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.69EWwq8jGt6.5rTgoTn1aL3" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.69EWwq8jGt6.6TCmLvVcskN" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.69EWwq8jGt6.6XXhSaUI8jR" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.69EWwq8jGt6.5kIks34LyhC" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.69EWwq8jGt6.6OJCgYXyFf4" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5lD7n5ipa6m" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.5WGVXR8SxMt" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5lD7n5ipa6m.5pVWbhXJcBe" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5lD7n5ipa6m.5vsGrQAIJlW" displaytext="Pick Many" expand="false" type="slide" />
-            <slidelink slideid="_player.5lD7n5ipa6m.6Z7uRNfJ1yk" displaytext="Pick Many" expand="false" type="slide" />
-            <slidelink slideid="_player.5lD7n5ipa6m.5sZ4Q2bwFVf" displaytext="Pick Many" expand="false" type="slide" />
+            <slidelink slideid="_player.5WGVXR8SxMt.6K3Pr3oLvw0" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5WGVXR8SxMt.66g6xOl4icv" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5WGVXR8SxMt.6Tevaw3FYHL" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5WGVXR8SxMt.5YUMARlYJ5A" displaytext="Pick One" expand="false" type="slide" />
+            <slidelink slideid="_player.5WGVXR8SxMt.6GDltr6gnOk" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5WGVXR8SxMt.6nsRMb5RB0k" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6oUN5Z8uPNZ" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6GTXCymB4hN" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6oUN5Z8uPNZ.5sa7nr0i5lj" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6GTXCymB4hN.6MLowEFWFp8" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6GTXCymB4hN.5vbh9eAzV8G" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6GTXCymB4hN.5WrnkN4FZMu" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6GTXCymB4hN.65dymChfsGY" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6iuT4PQXWJm" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.5V7inPJn2vF" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6iuT4PQXWJm.6Gvi8KURabk" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6iuT4PQXWJm.6Y5m5QxPIoz" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6iuT4PQXWJm.6XqfsHUw4tI" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6iuT4PQXWJm.6VVpR0rkmgC" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6iuT4PQXWJm.5tOzlarPIwT" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6iuT4PQXWJm.5ZUujCbnbr5" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5V7inPJn2vF.6Hjc3Ekduus" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5V7inPJn2vF.6dIUVxVoeCm" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5V7inPJn2vF.67uzUcgJyuN" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5V7inPJn2vF.5WoQXTZhnwG" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5V7inPJn2vF.6p7SfVkY9rO" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5V7inPJn2vF.5yZltI0FHAR" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5VPC9oa6j3x" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.5fsxj2yAPqU" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5VPC9oa6j3x.5XcDKv2Pwh8" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5VPC9oa6j3x.5heJYmxJZSN" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5VPC9oa6j3x.6Vc4pHRrWWi" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5VPC9oa6j3x.6gtoUNsD4jf" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5VPC9oa6j3x.6NCMSPraHJ9" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5VPC9oa6j3x.6VCNuoanbnX" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5fsxj2yAPqU.6iAH14aSPyc" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5fsxj2yAPqU.6nyaDasEVY7" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5fsxj2yAPqU.6RgAAqmw6iL" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5fsxj2yAPqU.5u6XXCnKszM" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5fsxj2yAPqU.6Yosc772ggZ" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5fsxj2yAPqU.6E5I1LsVcFF" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6kuBro5s6Qm" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6dAk6c8EaUy" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6kuBro5s6Qm.6LHC7yj2pEp" displaytext="Drag and Drop" expand="false" type="slide" />
-            <slidelink slideid="_player.6kuBro5s6Qm.6iehyjj6Lxa" displaytext="Drag and Drop" expand="false" type="slide" />
-            <slidelink slideid="_player.6kuBro5s6Qm.5uxH9HRva16" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6dAk6c8EaUy.5z4NwrVyX0h" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6dAk6c8EaUy.60DoCZfbvxn" displaytext="Drag and Drop" expand="false" type="slide" />
+            <slidelink slideid="_player.6dAk6c8EaUy.6EvOYRpbnWJ" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6CEQq6mnN4r" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.5zFBE1flzyg" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6CEQq6mnN4r.6HGvcW2Rq7a" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6CEQq6mnN4r.5dQRtaMUArD" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6CEQq6mnN4r.5fZd4lZ2yKk" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5zFBE1flzyg.5ZheqMZfSBp" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5zFBE1flzyg.5jk4krGIqUD" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5zFBE1flzyg.6dgrmZtR5py" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5zFBE1flzyg.6GQnbgAf3LI" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6YoF2RakyPN" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.5azEbxYSIkk" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6YoF2RakyPN.6SSwIQlbplM" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5azEbxYSIkk.5xifva3pl2X" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5azEbxYSIkk.5YsHJK0lEnU" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
